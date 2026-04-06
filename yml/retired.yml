@@ -1,4 +1,8 @@
 retired:
+  - username: zzuf
+    id: 9d4779a8-d35f-45d2-b51c-95de7a77e128
+    role: Former Map Developer and Moderator
+    date: '2026-04-06'
   - username: Obelistics
     id: b03360db-b8cd-49de-8ba1-b7920c2238a9
     role: Former Builder
@@ -129,7 +133,7 @@ retired:
     date: '2021-09-24'
   - username: Nixani
     id:  2958ea4c-3501-404e-88cc-12e8632f68cc
-    role: Former Moderator and Map Developer
+    role: Former Map Developer and Moderator
     date: '2021-09-23'
   - username: Joel_
     id:  5918ee40-462b-4c84-ba32-b9e71761a8ff
@@ -157,7 +161,7 @@ retired:
     date: '2020-12-23'
   - username: Qixit
     id:  10c1b730-49b9-4f75-9212-91facc371477
-    role: Former Moderator and Map Developer
+    role: Former Map Developer and Moderator
     date: '2020-11-29'
   - username: BGMP
     id:  2cef6d05-ec9a-44b3-bedc-53359c68ae65

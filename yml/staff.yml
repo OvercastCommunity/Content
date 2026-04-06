@@ -77,14 +77,6 @@ map developers:
       id: 2ca8072f-74be-4798-85b8-bbce03aa91af
       links:
         github: Tywnis
-    - username: zzuf
-      id: 9d4779a8-d35f-45d2-b51c-95de7a77e128
-      links:
-        github: zzufx
-    - username: _Pear
-      id: 6ff4ade9-e968-4acd-80eb-1a6fa89629fb
-      links:
-        github: TheRealPear
     - username: Lich_of_Flowers
       id: 52bcb4dd-a1a0-4d9b-94e0-49e145e318e4
       links:
@@ -254,3 +246,8 @@ advisors:
       role: Map Development Advisor
       links:
         github: Cazadorian
+    - username: _Pear
+      id: 6ff4ade9-e968-4acd-80eb-1a6fa89629fb
+      role: Map Development Advisor
+      links:
+        github: TheRealPear
