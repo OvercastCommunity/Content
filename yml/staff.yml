@@ -204,6 +204,8 @@ builders:
       id: f610e558-a3c8-44fb-8622-68cc49dbc18f
     - username: MishM0sh
       id: 4011d739-4dfb-41f6-8e60-5179d035cab7
+    - username: minuyo
+      id: 644521d7-9437-47c1-b1d2-698eb757df3d
 advisors:
   color: "#a00"
   members:
