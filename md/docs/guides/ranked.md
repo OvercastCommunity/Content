@@ -45,6 +45,17 @@ You will start being **Unranked**. Once you play 15 matches, you will be awarded
 
 There are 6 rank divisions: **Bronze**, **Silver**, **Gold**, **Platinum**, **Diamond** and **Master**, each one being divided into 5 subdivisions (e.g. Silver 2). On top of them there is **Grandmaster**, which is the highest rank one can achieve.
 
+| **Rank** | **Icons** | **Spark Rating** |
+|------|-------|--------------|
+| Unranked | <img src="https://oc.tc/img/ranks/unranked.png" width="32" /> | — |
+| Bronze | <img src="https://oc.tc/img/ranks/bronze_1.png" width="32" /> <img src="https://oc.tc/img/ranks/bronze_2.png" width="32" /> <img src="https://oc.tc/img/ranks/bronze_3.png" width="32" /> <img src="https://oc.tc/img/ranks/bronze_4.png" width="32" /> <img src="https://oc.tc/img/ranks/bronze_5.png" width="32" /> | 0 – 1000 |
+| Silver | <img src="https://oc.tc/img/ranks/silver_1.png" width="32" /> <img src="https://oc.tc/img/ranks/silver_2.png" width="32" /> <img src="https://oc.tc/img/ranks/silver_3.png" width="32" /> <img src="https://oc.tc/img/ranks/silver_4.png" width="32" /> <img src="https://oc.tc/img/ranks/silver_5.png" width="32" /> | 1000 – 1500 |
+| Gold | <img src="https://oc.tc/img/ranks/gold_1.png" width="32" /> <img src="https://oc.tc/img/ranks/gold_2.png" width="32" /> <img src="https://oc.tc/img/ranks/gold_3.png" width="32" /> <img src="https://oc.tc/img/ranks/gold_4.png" width="32" /> <img src="https://oc.tc/img/ranks/gold_5.png" width="32" /> | 1500 – 2000 |
+| Platinum | <img src="https://oc.tc/img/ranks/platinum_1.png" width="32" /> <img src="https://oc.tc/img/ranks/platinum_2.png" width="32" /> <img src="https://oc.tc/img/ranks/platinum_3.png" width="32" /> <img src="https://oc.tc/img/ranks/platinum_4.png" width="32" /> <img src="https://oc.tc/img/ranks/platinum_5.png" width="32" /> | 2000 – 2500 |
+| Diamond | <img src="https://oc.tc/img/ranks/diamond_1.png" width="32" /> <img src="https://oc.tc/img/ranks/diamond_2.png" width="32" /> <img src="https://oc.tc/img/ranks/diamond_3.png" width="32" /> <img src="https://oc.tc/img/ranks/diamond_4.png" width="32" /> <img src="https://oc.tc/img/ranks/diamond_5.png" width="32" /> | 2500 – 3000 |
+| Master | <img src="https://oc.tc/img/ranks/master_1.png" width="32" /> <img src="https://oc.tc/img/ranks/master_2.png" width="32" /> <img src="https://oc.tc/img/ranks/master_3.png" width="32" /> <img src="https://oc.tc/img/ranks/master_4.png" width="32" /> <img src="https://oc.tc/img/ranks/master_5.png" width="32" /> | 3000 – 3500 |
+| Grandmaster | <img src="https://oc.tc/img/ranks/grandmaster.png" width="32" /> | 3500+ |
+
 ## Profiles & Leaderboards
 
 You can view detailed stats on any player's **[profile](https://oc.tc/Indicado?service=RANKED&seriesId=1&format=5v5)**, including their Spark Rating and queue-specific statistics. **[Leaderboards](https://oc.tc/leaderboards)** are also available, allowing you to see how you stack up against the rest of the community — check out an [example leaderboard](https://oc.tc/leaderboards?leaderboard=ranked&size=25&service=RANKED&seriesId=1&format=5v5) to get a feel for it.
