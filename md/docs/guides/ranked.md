@@ -15,7 +15,7 @@ It boasts gamemodes such as King of the Hill, Capture the Point, King of the Fla
    - `/queues` — opens the queue menu where you can see the status of available queues.
    - `/queue join <queue>` — joins a specific queue directly.
    - `/queue leave` — leaves the queue.
-2. Once in the queue, you can head to any server and play as normal while you wait. You will receive **notifications** as players join and leave the queue. When a match is ready, you will be **notified**.
+2. Once in the queue, you can head to any server and play as normal while you wait. You will receive **notifications** as players join and leave the queue. When a match is ready, you will also be **notified**.
 
 ## Static vs Dynamic Queues
 
@@ -47,7 +47,7 @@ There are 6 rank divisions: **Bronze**, **Silver**, **Gold**, **Platinum**, **Di
 
 ## Profiles & Leaderboards
 
-You can view detailed stats on any player's **[profile](https://oc.tc/Indicado?service=RANKED&seriesId=1&format=5v5)**, including their Spark Rating and queue-specific statistics. **[Leaderboards](https://oc.tc/leaderboards)** are also available, allowing you to see how you stack up against the rest of the community — check out an **[example leaderboard](https://oc.tc/leaderboards?leaderboard=ranked&size=25&service=RANKED&seriesId=1&format=5v5)** to get a feel for it.
+You can view detailed stats on any player's **[profile](https://oc.tc/Indicado?service=RANKED&seriesId=1&format=5v5)**, including their Spark Rating and queue-specific statistics. **[Leaderboards](https://oc.tc/leaderboards)** are also available, allowing you to see how you stack up against the rest of the community — check out an [example leaderboard](https://oc.tc/leaderboards?leaderboard=ranked&size=25&service=RANKED&seriesId=1&format=5v5) to get a feel for it.
 
 # Any other questions?
 
