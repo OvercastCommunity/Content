@@ -21,7 +21,7 @@ It boasts gamemodes such as King of the Hill, Capture the Point, King of the Fla
 
 Queues can be either **static** or **dynamic**. Static queues have a fixed player count, meaning a match will only be created once the exact number of players required has joined.
 
-Dynamic queues, on the other hand, can form a match across a range of player counts — for example, anywhere from 4 to 14 players, resulting in matches anywhere from 2v2 to 7v7. Once the minimum player count is reached, a countdown to match creation begins. This countdown starts at **65 seconds** and decreases as more players join the queue, down to a minimum of **15 seconds**, giving more players a chance to join before the match starts.
+Dynamic queues, on the other hand, can form a match across a range of player counts — for example, anywhere from 4 to 14 players, resulting in matches anywhere from 2v2 to 7v7. Once the minimum player count is reached, a countdown to match creation begins. The countdown will adjust based on how many players are in the queue, giving more players a chance to join before the match starts.
 
 ## Playing
 
