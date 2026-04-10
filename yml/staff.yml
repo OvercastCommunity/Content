@@ -97,6 +97,10 @@ map developers:
       id: 63ddf58a-ba2c-4d39-8481-6358bb46c63a
       links:
         github: samschaap
+    - username: Technodono
+      id: 1aad55f7-2dea-4f22-85ca-ad9de3a78609
+      links:
+        github: technodono
 head of events:
   color: "#fc0"
   members:
@@ -194,8 +198,6 @@ builders:
   members:
     - username: rockymine
       id: fe3608b7-d105-4029-8800-34b3147065b6
-    - username: Technodono
-      id: 1aad55f7-2dea-4f22-85ca-ad9de3a78609
     - username: DerStiv
       id: f1ff7ecc-2e79-4320-85de-adb392eb2822
     - username: Javg_
