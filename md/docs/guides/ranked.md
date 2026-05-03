@@ -48,7 +48,7 @@ If you'd like to voice chat with your teammates without any manual setup, follow
 3. You'll be **automatically moved** into a team voice channel.
 4. After the match, you'll be returned to the lobby after **10 seconds**.
 
-> **Note**: Voice chat is optional but recommended; good comms make a big difference in ranked play.
+**Note**: Voice chat is optional but recommended; good comms make a big difference in ranked play.
 
 # Ranking system
 
