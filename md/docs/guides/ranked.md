@@ -1,7 +1,7 @@
 ---
 title: Play Ranked
 icon: star
-updated: "2026-04-09"
+updated: "2026-05-03"
 ---
 
 Overcast Ranked (formerly known as BOLT) is an **automated**, **free** and **effortless** Ranked service with stats tracking, ranks, leaderboards and many other features.
@@ -31,7 +31,24 @@ Dynamic queues, on the other hand, can form a match across a range of player cou
 4. You will be either moved to the **assigned server** or presented with a chat message that you can click to join the match.
 5. You will have to **wait for your teammates to join**. Run `/ready` to mark your team as ready and decrease the match start countdown.
 6. Once the match starts, **try your best** and have fun!
-7. You are expected to **see matches through to the end**. If you leave your match for more than 2 minutes, you will receive a **-50 Spark Rating** penalty and a **temporary queue ban**. If someone leaves your match **within the first minute**, it will be automatically cancelled.
+7. You are expected to **see matches through to the end**. If you leave your match for more than a minute, you will receive a **-50 Spark Rating** penalty and a **temporary queue ban**. If someone leaves your match **within the first minute**, it will be automatically cancelled.
+
+## Discord Integration
+
+We have a dedicated **Ranked** category in our [Discord server](/discord) with channels for discussion, notifications, and voice:
+
+- **#ranked-discussion** — general ranked chat.
+- **#ranked-notifications** — match updates and announcements.
+- **Lobby Channel** — hang out here while you queue.
+
+If you'd like to voice chat with your teammates without any manual setup, follow these steps:
+
+1. Head to **#link** and follow the instructions from **Cloudy** to connect your accounts.
+2. Be in the **Lobby Channel** when a match is created, or join it any time before the match ends.
+3. You'll be **automatically moved** into a team voice channel.
+4. After the match, you'll be returned to the lobby after **10 seconds**.
+
+> **Note**: Voice chat is optional but recommended; good comms make a big difference in ranked play.
 
 # Ranking system
 
