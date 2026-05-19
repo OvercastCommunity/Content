@@ -105,6 +105,10 @@ map developers:
       id: 1aad55f7-2dea-4f22-85ca-ad9de3a78609
       links:
         github: technodono
+    - username: Javg_
+      id: 64e840c8-4fb5-4659-a36b-ff93e2f6113a
+      links:
+        github: Javggg
 event coordinators:
   color: "#088"
   members:
@@ -210,8 +214,6 @@ builders:
       id: fe3608b7-d105-4029-8800-34b3147065b6
     - username: DerStiv
       id: f1ff7ecc-2e79-4320-85de-adb392eb2822
-    - username: Javg_
-      id: 64e840c8-4fb5-4659-a36b-ff93e2f6113a
     - username: jcane
       id: f610e558-a3c8-44fb-8622-68cc49dbc18f
     - username: MishM0sh
