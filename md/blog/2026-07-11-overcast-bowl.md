@@ -4,7 +4,7 @@ author: jcane
 excerpt: "Learn about the upcoming Touchdown tournament: Overcast Bowl!"
 ---
 
-![event banner](image.png)
+![event banner](ocb bowl pic.png)
 
 The OCC Events Team is excited to announce the upcoming competitive tournament: **Overcast Bowl!** This will be a one-day **5v5 Touchdown tournament**, taking place **Sunday, August 2, 2026 4:00 PM EDT**. This tournament will include a qualifiers stage, along with an invitational bracket to determine the winner.
 
@@ -13,9 +13,9 @@ The OCC Events Team is excited to announce the upcoming competitive tournament: 
 - The tournament format will be announced once we know the exact number of teams playing.
 - This game will be based on the Touchdown gamemode.
 - We'll accept a maximum of 6 players and a minimum of 5 players per team.
-- Need to find players for your team, or want to let everybody know you're looking for a team? Find teammates or a team in [this channel](https://discord.com/channels/86514356862320640/1525513657176293466)!
+- Need to find players for your team, or want to let everybody know you're looking for a team? Find teammates on the #events-chat on our discord server!
 
-- We will be using Discord for the tournament. Use [this link](https://discord.gg/mY7PqyXp8q) to join our community server. Your team will be required to use the given voice channels in the server. 
+- We will be using Discord for the tournament. Use [oc.tc/discord](https://discord.gg/mY7PqyXp8q) to join our community server. Your team will be required to use the given voice channels in the server. 
 
 # Dates
 
