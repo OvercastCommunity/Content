@@ -1,10 +1,10 @@
 ---
-title: "Overcast Bowl, the upcoming Touchdown Tournament!"
+title: "Overcast Bowl, The Upcoming Touchdown Tournament!"
 author: jcane
 excerpt: "Learn about the upcoming Touchdown tournament: Overcast Bowl!"
 ---
 
-![event banner](ocb bowl pic.png)
+![event banner](/img/blog/ocb%20bowl%20pic.png)
 
 The OCC Events Team is excited to announce the upcoming competitive tournament: **Overcast Bowl!** This will be a one-day **5v5 Touchdown tournament**, taking place **Sunday, August 2, 2026 4:00 PM EDT**. This tournament will include a qualifiers stage, along with an invitational bracket to determine the winner.
 
@@ -45,6 +45,6 @@ To register your team, you must fill out [this form](https://forms.gle/Kkzuon2V3
 
 # Rules
 
-Overcast Community [rules](/rules/) will apply, and any player who breaks the rules during this tournament will be punished accordingly.
+Overcast Community [rules](https://oc.tc/rules) will apply, and any player who breaks the rules during this tournament will be punished accordingly.
 
 Good luck and have fun!
