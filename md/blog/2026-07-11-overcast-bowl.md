@@ -15,7 +15,7 @@ The OCC Events Team is excited to announce our 6th competitive tournament: **Ove
 - We'll accept a maximum of 6 players and a minimum of 5 players per team.
 - Need to find players for your team, or want to let everybody know you're looking for a team? Find teammates on the #events-chat on our discord server!
 - We will be using Discord for the tournament. Join our discord server at [oc.tc/discord](https://discord.com/invite/OCTC), as your team will be required to use their assigned voice channels in the server. 
-- It is highly reccommended you play Ranked Touchdown on the server to familiarize yourself with the gamemode. To play, join our server at `play.oc.tc`, and type `/queue` in the chat. From there, you can join **Tom Brady's World of Fun** to play ranked games.
+- It is highly reccommended you play Ranked Touchdown on the server to familiarize yourself with the gamemode. To play, join our server at `play.oc.tc`, and type `/q join touchdown` in the chat. From there, you can join **Tom Brady's World of Fun** to play ranked games.
 
 # Dates
 
