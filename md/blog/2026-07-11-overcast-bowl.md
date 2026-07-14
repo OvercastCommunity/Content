@@ -14,8 +14,8 @@ The OCC Events Team is excited to announce our 6th competitive tournament: **Ove
 - This game will be based on the Touchdown gamemode.
 - We'll accept a maximum of 6 players and a minimum of 5 players per team.
 - Need to find players for your team, or want to let everybody know you're looking for a team? Find teammates on the #events-chat on our discord server!
-
 - We will be using Discord for the tournament. Join our discord server at [oc.tc/discord](https://discord.com/invite/OCTC), as your team will be required to use their assigned voice channels in the server. 
+- It is highly reccommended you play Ranked Touchdown on the server to familiarize yourself with the gamemode. To play, join our server at `play.oc.tc`, and type `/queue` in the chat. From there, you can join **Tom Brady's World of Fun** to play ranked games.
 
 # Dates
 
@@ -24,7 +24,7 @@ The OCC Events Team is excited to announce our 6th competitive tournament: **Ove
 
 # Registrations
 
-To register your team, you must fill out [this form](https://forms.gle/Kkzuon2V3qGdWgwy5). Ideally, the team captain should be filling this out.
+To register your team, you must fill out [the Team Signup form](https://forms.gle/Kkzuon2V3qGdWgwy5). Ideally, the team captain should be filling this out.
 
 # Maps
 
@@ -32,8 +32,8 @@ To register your team, you must fill out [this form](https://forms.gle/Kkzuon2V3
 
 # Servers and scrims
 
-- You will be able to scrimmage other teams using OCC's **PUGs**. You can create one [here](https://oc.tc/pugs).
-- Alternatively, a community server, **Fireballs**, will also host scrimmages and other events. You can join the server [here](https://discord.gg/pUzcGwKsmj).
+- You will be able to scrimmage other teams using [OCC's PUGs](https://oc.tc/pugs).
+- Alternatively, a community server, [Fireballs](https://discord.gg/pUzcGwKsmj), will also host scrimmages and other events.
 
 # Prize pool
 
